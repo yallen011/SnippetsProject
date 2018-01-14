@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Snippets Project</string>
+    <string name="title_activity_fab_design_support_library">Floating Action Button Menu</string>
+    <string name="title_activity_recycler_view">Recyclerview Example</string>
+    <string name="filler_text">This some filler text for the floating action button that will
+    display on the screen for the snippet.</string>
+    <string name="price_format">$%1$s</string>
+    <string name="name_format">Product %1$s</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="dialog_name">Name</string>
+</resources>
